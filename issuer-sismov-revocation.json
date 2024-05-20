@@ -1,1 +1,12 @@
-{}
+{
+  "revokedAssertions": [
+    {
+      "id": "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
+      "revocationReason": "Honor code violation"
+    },
+    {  
+      "id": "urn:uuid:8e0b8a28-beff-43de-a72c-820bc360db3d",
+      "revocationReason": "Issued in error."
+    }
+  ]
+}
