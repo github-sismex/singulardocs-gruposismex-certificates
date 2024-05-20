@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://example.org/revocationList.json",
+  "id": "https://raw.githubusercontent.com/github-sismex/singulardocs-gruposismex-certificates/main/issuer-sismov-revocation.json",
   "type": "RevocationList",
   "issuer": "https://raw.githubusercontent.com/github-sismex/singulardocs-gruposismex-certificates/main/issuer-sismov.json",
   "revokedAssertions": [
