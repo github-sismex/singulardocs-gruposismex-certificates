@@ -1,11 +1,16 @@
 {
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://example.org/revocationList.json",
+  "type": "RevocationList",
+  "issuer": "https://raw.githubusercontent.com/github-sismex/singulardocs-gruposismex-certificates/main/issuer-sismov.json",
   "revokedAssertions": [
+    "urn:uuid:3c574c87-b96f-4f06-8eb5-68a29335b60e",
     {
       "id": "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
       "revocationReason": "Honor code violation"
     },
-    {  
-      "id": "urn:uuid:8e0b8a28-beff-43de-a72c-820bc360db3d",
+    {
+      "uid": "abc123",
       "revocationReason": "Issued in error."
     }
   ]
