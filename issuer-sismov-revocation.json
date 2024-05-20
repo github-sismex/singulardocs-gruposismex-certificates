@@ -7,7 +7,7 @@
     "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
     {
       "@context": "https://w3id.org/openbadges/v2",
-      "id": "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
+      "id": "urn:uuid:9cf7dba4-7182-4d52-b9b7-a59367d0000b",
       "revoked": true,
       "revocationReason": "Honor code violation"
     },
